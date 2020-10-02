@@ -1,4 +1,4 @@
-#Super Simple Text Rotator by Pete R.
+###Super Simple Text Rotator by Pete R.
 A light weight jQuery plugin that will allow you to add a super simple rotating text to your website with little to no markup
 Created by [Pete R.](http://www.thepetedesign.com), Founder of [BucketListly](http://www.bucketlistly.com)
 
